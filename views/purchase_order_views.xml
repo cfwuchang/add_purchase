@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+    <!-- <record id='echart_views_game_action' model='ir.actions.act_window'>
+        <field name="name">purchase.order.form</field>
+        <field name="res_model">purchase.order</field>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='purchase_delivery_invoice']" position="after">
+                <field name="information_attachment" widget="many2many_binary"/>
+            </xpath>
+        </field>
+    </record> -->
+
+</odoo>
